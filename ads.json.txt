@@ -1,7 +1,6 @@
 {
   "schemaVersion": 1,
   "enabled": true,
-
   "initialDelaySeconds": 5,
   "showDurationSeconds": 5,
   "repeatEverySeconds": 5,
@@ -32,12 +31,11 @@
     {
       "id": "recipe_keeper_01",
       "enabled": true,
-
       "elements": [
         {
           "type": "image",
           "enabled": true,
-          "src": "https://boktoss2345.github.io/Video-Maker-Studio-Editor-fih-link-webview/assets/images4165.png",
+          "src": "assets/images4165.png",
           "widthPercent": 82,
           "maxWidthDp": 420,
           "contentScale": "fit",
