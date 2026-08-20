@@ -29,13 +29,17 @@
 
   "ads": [
     {
-      "id": "recipe_keeper_01",
+      "id": "recipe_keeper_video_01",
       "enabled": true,
       "elements": [
         {
-          "type": "image",
+          "type": "video",
           "enabled": true,
-          "src": "assets/images4165.png",
+          "src": "https://boktoss2345.github.io/Block-Video-Studio-Editor/assets/videos12456.mp4",
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false,
           "widthPercent": 82,
           "maxWidthDp": 420,
           "contentScale": "fit",
