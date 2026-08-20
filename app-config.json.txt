@@ -1,0 +1,3 @@
+{
+  "launcherIcon": "icon1"
+}
