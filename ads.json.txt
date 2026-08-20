@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "enabled": true,
   "initialDelaySeconds": 5,
-  "showDurationSeconds": 20,
+  "showDurationSeconds": 5,
   "repeatEverySeconds": 5,
 
   "countdown": {
@@ -50,7 +50,7 @@
         {
           "type": "countdown",
           "enabled": true,
-          "seconds": 5,
+          "seconds": 50,
           "style": "circle",
           "position": "topRight",
           "autoCloseAtZero": true
