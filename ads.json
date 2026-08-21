@@ -50,7 +50,7 @@
         {
           "type": "countdown",
           "enabled": true,
-          "seconds": 50,
+          "seconds": 19,
           "style": "circle",
           "position": "topRight",
           "autoCloseAtZero": true
