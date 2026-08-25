@@ -48,6 +48,23 @@
           "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0H7SBR4MW"
         },
         {
+          "type": "button",
+          "enabled": true,
+          "text": "DOWNLOAD\nCapcut Without Ads",
+          "backgroundColor": "#FFD400",
+          "textColor": "#000000",
+          "textSizeSp": 18,
+          "bold": true,
+          "widthPercent": 82,
+          "maxWidthDp": 420,
+          "heightDp": 64,
+          "cornerRadiusDp": 16,
+          "marginTopDp": 12,
+          "gravity": "center",
+          "clickable": true,
+          "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0H7SBR4MW"
+        },
+        {
           "type": "countdown",
           "enabled": true,
           "seconds": 25,
