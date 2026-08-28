@@ -62,7 +62,7 @@
           "marginTopDp": 12,
           "gravity": "center",
           "clickable": true,
-          "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0H7SBR4MW"
+          "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0HB6YN5DY"
         },
         {
           "type": "countdown",
