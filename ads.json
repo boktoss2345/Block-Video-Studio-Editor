@@ -40,10 +40,12 @@
           "loop": true,
           "muted": true,
           "controls": false,
-          "widthPercent": 82,
-          "maxWidthDp": 420,
+
+          "widthPercent": 94,
+          "maxWidthDp": 760,
           "contentScale": "fit",
-          "cornerRadiusDp": 24,
+
+          "cornerRadiusDp": 20,
           "clickable": true,
           "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0HB6YN5DY"
         },
